@@ -1,0 +1,1215 @@
+{
+  "workspaces": {
+    "Fielder Pro": {
+      "main": {
+        "id": "a8e316b53baea28c",
+        "type": "split",
+        "children": [
+          {
+            "id": "70e9da98856299bc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "764892f4a47c041e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Proyectos/Pole Loading/App Pole Loading.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "App Pole Loading"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ca3e08a29caffdf1",
+        "type": "split",
+        "children": [
+          {
+            "id": "766f6914705eb725",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "db83edda1afae6b3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "pole load",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byCreatedTime"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Buscar"
+                }
+              },
+              {
+                "id": "86121f1f1cbbcd0b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "starred"
+                }
+              },
+              {
+                "id": "e9d18aa3465b04b1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Marcadores"
+                }
+              },
+              {
+                "id": "3dbbd07538a14374",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Explorador de archivos"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 380.5
+      },
+      "right": {
+        "id": "ccceb238580a14e1",
+        "type": "split",
+        "children": [
+          {
+            "id": "950687a123db8373",
+            "type": "tabs",
+            "dimension": 68.89763779527559,
+            "children": [
+              {
+                "id": "873faaf45e2d7348",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Proyectos/Pole Loading/App Pole Loading.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.5643272716277806,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Gráfico de App Pole Loading"
+                }
+              },
+              {
+                "id": "687df288695477ac",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "0a27cd5645469cf7",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Todas las propiedades"
+                }
+              },
+              {
+                "id": "c1424e00c2513427",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "git-view"
+                }
+              },
+              {
+                "id": "783b72442228ac0b",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Plan de acción - Seguridad.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Notas al pie"
+                }
+              },
+              {
+                "id": "313c64890d3216d1",
+                "type": "leaf",
+                "state": {
+                  "type": "planner-timeline",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Timeline"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3ac0af0efac84d31",
+            "type": "tabs",
+            "dimension": 31.102362204724407,
+            "children": [
+              {
+                "id": "8a2bfbf1120b5fce",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "2 🌐 Áreas/B 👨🏻‍💼 Profesional/1 👨🏻‍🏫 Educación/C - Platzi/1 - Desarrollo e Ingeniería/B - Backend, Arquitectura y Base de Datos/Fundamentos de Arquitectura de Software.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Enlaces entrantes de Fundamentos de Arquitectura de Software"
+                }
+              },
+              {
+                "id": "c9e9e231dcb29b9b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "2 🌐 Áreas/B 👨🏻‍💼 Profesional/1 👨🏻‍🏫 Educación/C - Platzi/1 - Desarrollo e Ingeniería/B - Backend, Arquitectura y Base de Datos/Fundamentos de Arquitectura de Software.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Enlaces salientes de Fundamentos de Arquitectura de Software"
+                }
+              },
+              {
+                "id": "64b507398449598b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Propuesta de uso de gemini-cli.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Esquema de Propuesta de uso de gemini-cli"
+                }
+              },
+              {
+                "id": "d33fb18f39d9c747",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 414.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Crear nueva base": false,
+          "canvas:Crear nuevo lienzo": false,
+          "switcher:Abrir selector rápido": false,
+          "graph:Abrir vista gráfica": false,
+          "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+          "random-note:Abrir nota al azar": false,
+          "daily-notes:Abrir la nota de hoy": false,
+          "templates:Insertar plantilla": false,
+          "command-palette:Abrir paleta de comandos": false,
+          "obsidian-day-planner:Open Timeline": false,
+          "obsidian-day-planner:Open Multi-Day View": false,
+          "obsidian-git:Open Git source control": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "764892f4a47c041e",
+      "mtime": "2025-09-12T10:00:06-05:00"
+    },
+    "CaLoop": {
+      "main": {
+        "id": "a8e316b53baea28c",
+        "type": "split",
+        "children": [
+          {
+            "id": "70e9da98856299bc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "764892f4a47c041e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Proyectos/Pole Loading/App Pole Loading.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "App Pole Loading"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ca3e08a29caffdf1",
+        "type": "split",
+        "children": [
+          {
+            "id": "766f6914705eb725",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "db83edda1afae6b3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "pole load",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byCreatedTime"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Buscar"
+                }
+              },
+              {
+                "id": "86121f1f1cbbcd0b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "starred"
+                }
+              },
+              {
+                "id": "e9d18aa3465b04b1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Marcadores"
+                }
+              },
+              {
+                "id": "3dbbd07538a14374",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Explorador de archivos"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 380.5
+      },
+      "right": {
+        "id": "ccceb238580a14e1",
+        "type": "split",
+        "children": [
+          {
+            "id": "950687a123db8373",
+            "type": "tabs",
+            "dimension": 68.89763779527559,
+            "children": [
+              {
+                "id": "873faaf45e2d7348",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Proyectos/Pole Loading/App Pole Loading.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.5643272716277806,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Gráfico de App Pole Loading"
+                }
+              },
+              {
+                "id": "687df288695477ac",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "0a27cd5645469cf7",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Todas las propiedades"
+                }
+              },
+              {
+                "id": "c1424e00c2513427",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "git-view"
+                }
+              },
+              {
+                "id": "783b72442228ac0b",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Plan de acción - Seguridad.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Notas al pie"
+                }
+              },
+              {
+                "id": "313c64890d3216d1",
+                "type": "leaf",
+                "state": {
+                  "type": "planner-timeline",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Timeline"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3ac0af0efac84d31",
+            "type": "tabs",
+            "dimension": 31.102362204724407,
+            "children": [
+              {
+                "id": "8a2bfbf1120b5fce",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "2 🌐 Áreas/B 👨🏻‍💼 Profesional/1 👨🏻‍🏫 Educación/C - Platzi/1 - Desarrollo e Ingeniería/B - Backend, Arquitectura y Base de Datos/Fundamentos de Arquitectura de Software.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Enlaces entrantes de Fundamentos de Arquitectura de Software"
+                }
+              },
+              {
+                "id": "c9e9e231dcb29b9b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "2 🌐 Áreas/B 👨🏻‍💼 Profesional/1 👨🏻‍🏫 Educación/C - Platzi/1 - Desarrollo e Ingeniería/B - Backend, Arquitectura y Base de Datos/Fundamentos de Arquitectura de Software.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Enlaces salientes de Fundamentos de Arquitectura de Software"
+                }
+              },
+              {
+                "id": "64b507398449598b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Propuesta de uso de gemini-cli.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Esquema de Propuesta de uso de gemini-cli"
+                }
+              },
+              {
+                "id": "d33fb18f39d9c747",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 414.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Crear nueva base": false,
+          "canvas:Crear nuevo lienzo": false,
+          "switcher:Abrir selector rápido": false,
+          "graph:Abrir vista gráfica": false,
+          "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+          "random-note:Abrir nota al azar": false,
+          "daily-notes:Abrir la nota de hoy": false,
+          "templates:Insertar plantilla": false,
+          "command-palette:Abrir paleta de comandos": false,
+          "obsidian-day-planner:Open Timeline": false,
+          "obsidian-day-planner:Open Multi-Day View": false,
+          "obsidian-git:Open Git source control": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "764892f4a47c041e",
+      "mtime": "2025-09-12T10:02:03-05:00"
+    },
+    "Pole Loading": {
+      "main": {
+        "id": "a8e316b53baea28c",
+        "type": "split",
+        "children": [
+          {
+            "id": "70e9da98856299bc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "764892f4a47c041e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Proyectos/Pole Loading/App Pole Loading.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "App Pole Loading"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ca3e08a29caffdf1",
+        "type": "split",
+        "children": [
+          {
+            "id": "766f6914705eb725",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "db83edda1afae6b3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "pole load",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byCreatedTime"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Buscar"
+                }
+              },
+              {
+                "id": "86121f1f1cbbcd0b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "starred"
+                }
+              },
+              {
+                "id": "e9d18aa3465b04b1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Marcadores"
+                }
+              },
+              {
+                "id": "3dbbd07538a14374",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Explorador de archivos"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 380.5
+      },
+      "right": {
+        "id": "ccceb238580a14e1",
+        "type": "split",
+        "children": [
+          {
+            "id": "950687a123db8373",
+            "type": "tabs",
+            "dimension": 68.89763779527559,
+            "children": [
+              {
+                "id": "873faaf45e2d7348",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Proyectos/Pole Loading/App Pole Loading.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.5643272716277806,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Gráfico de App Pole Loading"
+                }
+              },
+              {
+                "id": "687df288695477ac",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "0a27cd5645469cf7",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Todas las propiedades"
+                }
+              },
+              {
+                "id": "c1424e00c2513427",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "git-view"
+                }
+              },
+              {
+                "id": "783b72442228ac0b",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Plan de acción - Seguridad.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Notas al pie"
+                }
+              },
+              {
+                "id": "313c64890d3216d1",
+                "type": "leaf",
+                "state": {
+                  "type": "planner-timeline",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Timeline"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3ac0af0efac84d31",
+            "type": "tabs",
+            "dimension": 31.102362204724407,
+            "children": [
+              {
+                "id": "8a2bfbf1120b5fce",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "2 🌐 Áreas/B 👨🏻‍💼 Profesional/1 👨🏻‍🏫 Educación/C - Platzi/1 - Desarrollo e Ingeniería/B - Backend, Arquitectura y Base de Datos/Fundamentos de Arquitectura de Software.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Enlaces entrantes de Fundamentos de Arquitectura de Software"
+                }
+              },
+              {
+                "id": "c9e9e231dcb29b9b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "2 🌐 Áreas/B 👨🏻‍💼 Profesional/1 👨🏻‍🏫 Educación/C - Platzi/1 - Desarrollo e Ingeniería/B - Backend, Arquitectura y Base de Datos/Fundamentos de Arquitectura de Software.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Enlaces salientes de Fundamentos de Arquitectura de Software"
+                }
+              },
+              {
+                "id": "64b507398449598b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Propuesta de uso de gemini-cli.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Esquema de Propuesta de uso de gemini-cli"
+                }
+              },
+              {
+                "id": "d33fb18f39d9c747",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 414.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Crear nueva base": false,
+          "canvas:Crear nuevo lienzo": false,
+          "switcher:Abrir selector rápido": false,
+          "graph:Abrir vista gráfica": false,
+          "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+          "random-note:Abrir nota al azar": false,
+          "daily-notes:Abrir la nota de hoy": false,
+          "templates:Insertar plantilla": false,
+          "command-palette:Abrir paleta de comandos": false,
+          "obsidian-day-planner:Open Timeline": false,
+          "obsidian-day-planner:Open Multi-Day View": false,
+          "obsidian-git:Open Git source control": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "764892f4a47c041e",
+      "mtime": "2025-09-12T10:03:26-05:00"
+    },
+    "Nimble": {
+      "main": {
+        "id": "a8e316b53baea28c",
+        "type": "split",
+        "children": [
+          {
+            "id": "7f969aa6739aba50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ffe07da523c82139",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "5 📅 Diario/2023/2025-09-16.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-09-16"
+                }
+              },
+              {
+                "id": "01cfedf53d151365",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Reunión Caloop ROI Review.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Reunión Caloop ROI Review"
+                }
+              },
+              {
+                "id": "b30b73fe8a2ff083",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Caloop Sprint ROI.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Caloop Sprint ROI"
+                }
+              },
+              {
+                "id": "19d442a685772662",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Calloop ROI - Flavio propuesta.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Calloop ROI - Flavio propuesta"
+                }
+              }
+            ],
+            "currentTab": 2,
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ca3e08a29caffdf1",
+        "type": "split",
+        "children": [
+          {
+            "id": "766f6914705eb725",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "db83edda1afae6b3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "arq",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byCreatedTime"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Buscar"
+                }
+              },
+              {
+                "id": "86121f1f1cbbcd0b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "starred"
+                }
+              },
+              {
+                "id": "e9d18aa3465b04b1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Marcadores"
+                }
+              },
+              {
+                "id": "3dbbd07538a14374",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Explorador de archivos"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 439.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "ccceb238580a14e1",
+        "type": "split",
+        "children": [
+          {
+            "id": "950687a123db8373",
+            "type": "tabs",
+            "dimension": 47.875,
+            "children": [
+              {
+                "id": "873faaf45e2d7348",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Sin título.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.10418794186940528,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Gráfico de Sin título"
+                }
+              },
+              {
+                "id": "687df288695477ac",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "0a27cd5645469cf7",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Todas las propiedades"
+                }
+              },
+              {
+                "id": "c1424e00c2513427",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "git-view"
+                }
+              },
+              {
+                "id": "783b72442228ac0b",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Plan de acción - Seguridad.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Notas al pie"
+                }
+              },
+              {
+                "id": "313c64890d3216d1",
+                "type": "leaf",
+                "state": {
+                  "type": "planner-timeline",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Timeline"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "3ac0af0efac84d31",
+            "type": "tabs",
+            "dimension": 52.125,
+            "children": [
+              {
+                "id": "8a2bfbf1120b5fce",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "2 🌐 Áreas/B 👨🏻‍💼 Profesional/1 👨🏻‍🏫 Educación/C - Platzi/1 - Desarrollo e Ingeniería/B - Backend, Arquitectura y Base de Datos/Fundamentos de Arquitectura de Software.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Enlaces entrantes de Fundamentos de Arquitectura de Software"
+                }
+              },
+              {
+                "id": "c9e9e231dcb29b9b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "2 🌐 Áreas/B 👨🏻‍💼 Profesional/1 👨🏻‍🏫 Educación/C - Platzi/1 - Desarrollo e Ingeniería/B - Backend, Arquitectura y Base de Datos/Fundamentos de Arquitectura de Software.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Enlaces salientes de Fundamentos de Arquitectura de Software"
+                }
+              },
+              {
+                "id": "64b507398449598b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Propuesta de uso de gemini-cli.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Esquema de Propuesta de uso de gemini-cli"
+                }
+              },
+              {
+                "id": "d33fb18f39d9c747",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 414.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Crear nueva base": false,
+          "canvas:Crear nuevo lienzo": false,
+          "switcher:Abrir selector rápido": false,
+          "graph:Abrir vista gráfica": false,
+          "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+          "random-note:Abrir nota al azar": false,
+          "daily-notes:Abrir la nota de hoy": false,
+          "templates:Insertar plantilla": false,
+          "command-palette:Abrir paleta de comandos": false,
+          "obsidian-day-planner:Open Timeline": false,
+          "obsidian-day-planner:Open Multi-Day View": false,
+          "obsidian-git:Open Git source control": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "b30b73fe8a2ff083",
+      "mtime": "2025-09-16T15:07:45-05:00"
+    }
+  },
+  "active": "Nimble"
+}

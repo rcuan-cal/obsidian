@@ -1,0 +1,54 @@
+/** Gantt **/
+.mermaid rect.task {
+  fill: var(--background-secondary) !important;
+}
+
+.mermaid text.taskText {
+  fill: var(--text-normal) !important;
+}
+
+/** ER **/
+.mermaid rect.er {
+  fill: var(--background-secondary) !important;
+}
+
+/** Class **/
+.mermaid .classGroup line,
+.mermaid .classGroup path {
+  stroke: var(--text-muted) !important;
+  fill: var(--text-muted) !important;
+}
+
+.mermaid .classGroup text {
+  fill: var(--text-normal) !important;
+}
+
+.mermaid .classGroup rect {
+  fill: var(--background-secondary) !important;
+}
+
+.mermaid .classLabel .label {
+  fill: var(--text-normal) !important;
+
+}
+
+
+
+/** Another Example **/
+
+.classGroup rect,
+.classGroup line {
+  fill: #2f334d !important;
+  stroke: #444a73 !important;
+}
+
+path.relation {
+  stroke: #444a73 !important;
+}
+
+.classLabel rect {
+  fill: rgba(0, 0, 0, 0) !important;
+}
+.classLabel text {
+  fill: #c8d3f5 !important;
+}

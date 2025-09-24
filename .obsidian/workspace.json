@@ -1,0 +1,406 @@
+{
+  "main": {
+    "id": "a8e316b53baea28c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f969aa6739aba50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1915227d0ac9d2dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1📌Areas/Gestion/1a1/1a1 202510/1a1 2025 Octubre.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1a1 2025 Octubre"
+            }
+          },
+          {
+            "id": "fb9966a34bba08cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 📅 Diario/2023/2025-09-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-24"
+            }
+          },
+          {
+            "id": "0aba43e12b19e57f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Presentación de 1a1 inicial.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Presentación de 1a1 inicial"
+            }
+          },
+          {
+            "id": "a3548b4d747159dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "9a5667ed2b4705fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3📦Recursos/Libros/Los primeros 90 días.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Los primeros 90 días"
+            }
+          },
+          {
+            "id": "b647f5652bae870f",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca3e08a29caffdf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "766f6914705eb725",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db83edda1afae6b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "86121f1f1cbbcd0b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
+            }
+          },
+          {
+            "id": "e9d18aa3465b04b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "3dbbd07538a14374",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.5
+  },
+  "right": {
+    "id": "ccceb238580a14e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "950687a123db8373",
+        "type": "tabs",
+        "dimension": 47.875,
+        "children": [
+          {
+            "id": "873faaf45e2d7348",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Presentación de 1a1 inicial.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.10418794186940528,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Gráfico de Presentación de 1a1 inicial"
+            }
+          },
+          {
+            "id": "687df288695477ac",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "0a27cd5645469cf7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "c1424e00c2513427",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "783b72442228ac0b",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Plan de acción - Seguridad.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Notas al pie"
+            }
+          },
+          {
+            "id": "313c64890d3216d1",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ac0af0efac84d31",
+        "type": "tabs",
+        "dimension": 52.125,
+        "children": [
+          {
+            "id": "8a2bfbf1120b5fce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 🌐 Áreas/B 👨🏻‍💼 Profesional/1 👨🏻‍🏫 Educación/C - Platzi/1 - Desarrollo e Ingeniería/B - Backend, Arquitectura y Base de Datos/Fundamentos de Arquitectura de Software.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Fundamentos de Arquitectura de Software"
+            }
+          },
+          {
+            "id": "c9e9e231dcb29b9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 🌐 Áreas/B 👨🏻‍💼 Profesional/1 👨🏻‍🏫 Educación/C - Platzi/1 - Desarrollo e Ingeniería/B - Backend, Arquitectura y Base de Datos/Fundamentos de Arquitectura de Software.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Fundamentos de Arquitectura de Software"
+            }
+          },
+          {
+            "id": "64b507398449598b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Propuesta de uso de gemini-cli.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Propuesta de uso de gemini-cli"
+            }
+          },
+          {
+            "id": "d33fb18f39d9c747",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 414.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "random-note:Abrir nota al azar": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "0aba43e12b19e57f",
+  "lastOpenFiles": [
+    "5 📅 Diario/2023/2025-09-24.md",
+    "Presentación de 1a1 inicial.md",
+    "3📦Recursos/Libros/Los primeros 90 días.md",
+    "Sin título.md",
+    "1📌Areas/Gestion/1a1/1a1 202510/1a1 2025 Octubre.md",
+    "1📌Areas/Gestion/1a1/1a1 202510/Definición de 1a1 Octubre.md",
+    "5 📅 Diario/2023/2025-09-23.md",
+    "1📌Areas/Gestion/Ideas/Definición de un Commit.md",
+    "5 📅 Diario/2023/2025-09-22.md",
+    "2🗃️Proyectos/✅ Mi OnBoarding/Onboarding de la empresa.md",
+    "Home.md",
+    "1📌Areas/Gestion/Equipo/Roles de un equipo de tecnología.md",
+    "1📌Areas/Gestion/Equipo",
+    "5 📅 Diario/2023/2025-09-18.md",
+    "2🗃️Proyectos/Outsource/Reunión de Kickoff - OS QA.md",
+    "2🗃️Proyectos/CaLoop/Caloop Sprint ROI.md",
+    "2🗃️Proyectos/Fielder Pro/Revisión de Fielder Pro.md",
+    "1📌Areas/Gestion/Equipo/Definición de Roles.md",
+    "1📌Areas/Gestion/Gestion.md",
+    "1📌Areas/Gestion/1a1/1a1 inicial/Reporte Final Consolidado - Reuniones 1a1 Iniciales.md",
+    "5 📅 Diario/2023/2025-09-19.md",
+    "0👨‍🔧Tareas",
+    "4🗑️Archivar",
+    "1📌Areas/Gestion/Reuniones/Temario Capacitación de Softskill.md",
+    "3📦Recursos/Libros",
+    "5 📅 Diario/2023/Semanas/Semana 37 2025.md",
+    "0👨‍🔧Tareas/Actividades a Realizar",
+    "5 📅 Diario/2023/Semanas/Semana 38 2025.md",
+    "5 📅 Diario/2023/Semanas/Semana 39 2025.md",
+    "5 📅 Diario/2023/Semanas",
+    "1📌Areas/Gestion/1a1/1a1 inicial/1a1 inicial - Plantilla.md",
+    "1📌Areas/Gestion/1a1/1a1 inicial/Entrevistas/1a1 inicial - Anel Martez - Backend Jr.md",
+    "1📌Areas/Gestion/1a1/1a1 202510",
+    "1📌Areas/Gestion/1a1/1a1 inicial/Entrevistas",
+    "1📌Areas/Gestion/Proyectos",
+    "1📌Areas/QA",
+    "2 🌐 Áreas/A 🙋🏻‍♂️ Personal/adjuntos/Pasted image 20250907143202.png",
+    "2 🌐 Áreas/A 🙋🏻‍♂️ Personal/adjuntos/Pasted Image 20250818210119_368.png",
+    "2 🌐 Áreas/A 🙋🏻‍♂️ Personal/adjuntos/Pasted image 20250813205038.png",
+    "2 🌐 Áreas/A 🙋🏻‍♂️ Personal/adjuntos/Pasted Image 20250813081306_360.png",
+    "2 🌐 Áreas/A 🙋🏻‍♂️ Personal/adjuntos/Pasted Image 20250813080922_563.png",
+    "2 🌐 Áreas/A 🙋🏻‍♂️ Personal/adjuntos/Pasted Image 20250813081315_657.png",
+    "2 🌐 Áreas/A 🙋🏻‍♂️ Personal/adjuntos/Pasted Image 20250813081254_790.png",
+    "2 🌐 Áreas/A 🙋🏻‍♂️ Personal/adjuntos/Pasted Image 20250813081241_246.png",
+    "2 🌐 Áreas/A 🙋🏻‍♂️ Personal/adjuntos/Pasted Image 20250813081229_926.png",
+    "2 🌐 Áreas/A 🙋🏻‍♂️ Personal/adjuntos/Pasted Image 20250813081217_852.png",
+    "Sin título 1.canvas",
+    "mine.canvas",
+    "2 🌐 Áreas/B 👨🏻‍💼 Profesional/3 👷🏻‍♂️ Ingeniería/A - Ingeniería en computación/Desarrollo/Python/FastAPI/Platzi - Curso de FastAPI - Modularización, Datos y Errores/Untitled 1.canvas",
+    "Sin título.canvas"
+  ]
+}

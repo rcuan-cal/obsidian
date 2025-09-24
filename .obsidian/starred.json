@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Lista de Piropos",
+      "path": "0 📥 Entrada/Lista de Piropos.md"
+    },
+    {
+      "type": "file",
+      "title": "Ruta - Finanzas Personales",
+      "path": "2 🌐 Áreas/B 👨🏻‍💼 Profesional/1 👨🏻‍🏫 Educación/C - Platzi/Finanzas/Ruta - Finanzas Personales.md"
+    },
+    {
+      "type": "file",
+      "title": "Libro - Patrones de Diseño",
+      "path": "2 🌐 Áreas/B 👨🏻‍💼 Profesional/3 👷🏻‍♂️ Ingeniería/C - Ingeniería de Software/Arquitectura de Software/8 - Patrones de Diseño/Libro - Patrones de Diseño.md"
+    },
+    {
+      "type": "file",
+      "title": "Dive Into Refactoring",
+      "path": "2 🌐 Áreas/B 👨🏻‍💼 Profesional/3 👷🏻‍♂️ Ingeniería/C - Ingeniería de Software/Desarrollo de Software/Fundamentos Programación/Refactorización/Curso - Refactorización/Dive Into Refactoring.md"
+    },
+    {
+      "type": "file",
+      "title": "Curso de Python - Comprehensions, Funciones y Manejo de Errores",
+      "path": "2 🌐 Áreas/B 👨🏻‍💼 Profesional/3 👷🏻‍♂️ Ingeniería/A - Ingeniería en computación/Desarrollo/Python/Python Basics/Curso de Python - Comprehensions, Funciones y Manejo de Errores/Platzi - Curso de Python - Comprehensions, Funciones y Manejo de Errores.md"
+    },
+    {
+      "type": "file",
+      "title": "Ricardo Oriel Cuan Sánchez",
+      "path": "2 🌐 Áreas/A 🙋🏻‍♂️ Personal/1 👨‍👩‍👧‍👦 Personas/Ricardo Oriel Cuan Sánchez.md"
+    },
+    {
+      "type": "file",
+      "title": "Proyecto - Personal Finance",
+      "path": "1 ✅ Proyectos/Largo/Life App/Proyecto - Personal Finance.md"
+    },
+    {
+      "type": "file",
+      "title": "Paginas en uso",
+      "path": "0 📥 Entrada/Paginas en uso.md"
+    },
+    {
+      "type": "file",
+      "title": "Twitch",
+      "path": "2 🌐 Áreas/A 🙋🏻‍♂️ Personal/2 🏄🏻‍♂️ Entretenimiento/A 🌎 Redes Sociales/2 - Twitch/Twitch.md"
+    },
+    {
+      "type": "file",
+      "title": "Estenotipia",
+      "path": "2 🌐 Áreas/A 🙋🏻‍♂️ Personal/5 ✨ Intereses/F - Teclados/Estenotipia.md"
+    }
+  ]
+}

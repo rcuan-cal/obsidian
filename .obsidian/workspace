@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "a8e316b53baea28c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a8f7ce50ee952c2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0 📥 Entrada/Uso de palos para neutralizar malechores.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca3e08a29caffdf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "766f6914705eb725",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dbbd07538a14374",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "db83edda1afae6b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "css",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86121f1f1cbbcd0b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "right": {
+    "id": "ccceb238580a14e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "950687a123db8373",
+        "type": "tabs",
+        "dimension": 35.93073593073593,
+        "children": [
+          {
+            "id": "873faaf45e2d7348",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "0 📥 Entrada/Uso de palos para neutralizar malechores.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -2,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.504273504273504,
+                  "repelStrength": 10.0854700854701,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.25883866956325174,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ac0af0efac84d31",
+        "type": "tabs",
+        "dimension": 64.06926406926407,
+        "children": [
+          {
+            "id": "8a2bfbf1120b5fce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0 📥 Entrada/Uso de palos para neutralizar malechores.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9e9e231dcb29b9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0 📥 Entrada/Uso de palos para neutralizar malechores.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "64b507398449598b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0 📥 Entrada/Uso de palos para neutralizar malechores.md"
+              }
+            }
+          },
+          {
+            "id": "d33fb18f39d9c747",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 441.5,
+    "collapsed": true
+  },
+  "active": "0a8f7ce50ee952c2",
+  "lastOpenFiles": [
+    "0 📥 Entrada/Seguro.md",
+    "2 🌐 Áreas/B 👨🏻‍💼 Profesional/3 👷🏻‍♂️ Ingeniería/A - Ingeniería en computación/FrontEnd/CSS/Herramientas CSS.md",
+    "1 ✅ Proyectos/Life App/Proyecto - Tracker - Presupuesto personal.md",
+    "1 ✅ Proyectos/Life App/Life App.md",
+    "1 ✅ Proyectos/Life App/Proyecto - Calendario.md",
+    "2 🌐 Áreas/A 🙋🏻‍♂️ Personal/1 👨‍👩‍👧‍👦 Personas/C - Bachiller/Yvanna/Yvanna.md",
+    "5 📅 Diario/2022/2022-10-12.md",
+    "2 🌐 Áreas/A 🙋🏻‍♂️ Personal/1 👨‍👩‍👧‍👦 Personas/C - Bachiller/Yvanna/El Cholito de Yvanna.md",
+    "0 📥 Entrada/Proveedores de Correos.md",
+    "0 📥 Entrada/Japón - Servicio de chofer para cuando bebas alcohol.md"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "locale",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "[Semana] ww YYYY",
+  "weeklyNoteTemplate": "9 🔧 Utility/A - Plantillas/Plantilla - Nueva Semana",
+  "weeklyNoteFolder": "5 📅 Diario/2023/Semanas",
+  "localeOverride": "system-default"
+}

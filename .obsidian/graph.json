@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#fecha",
+      "color": {
+        "a": 1,
+        "rgb": 16730007
+      }
+    },
+    {
+      "query": "tag:#persona",
+      "color": {
+        "a": 1,
+        "rgb": 9175295
+      }
+    },
+    {
+      "query": "tag:#Proyecto  ",
+      "color": {
+        "a": 1,
+        "rgb": 15333888
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -2.7,
+  "nodeSizeMultiplier": 1.66910112359551,
+  "lineSizeMultiplier": 1.00416666666667,
+  "collapse-forces": true,
+  "centerStrength": 0,
+  "repelStrength": 9.53125,
+  "linkStrength": 0.484375,
+  "linkDistance": 248,
+  "scale": 0.885498954315037,
+  "close": false
+}

@@ -1,0 +1,22 @@
+{
+  "legacyEditor": false,
+  "spellcheck": true,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "2 🌐 Áreas/A 🙋🏻‍♂️ Personal/adjuntos",
+  "promptDelete": false,
+  "readableLineLength": false,
+  "trashOption": "local",
+  "rightToLeft": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showFrontmatter": false,
+  "newFileFolderPath": "0 📥 Entrada"
+}

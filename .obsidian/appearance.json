@@ -1,0 +1,11 @@
+{
+  "translucency": false,
+  "baseFontSize": 19,
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "mermaid",
+    "ancho-paneles"
+  ],
+  "theme": "obsidian",
+  "cssTheme": "Border"
+}
